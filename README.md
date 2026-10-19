@@ -62,9 +62,11 @@ By aggregating and cleaning the transaction log data points, the Excel engine es
 * **Daily Wave Fluctuations:** Daily transaction value displays cyclical fluctuations over the month, remaining range-bound between **₹1.36 Crore and ₹1.48 Crore per day**, with systemic peaks building around the 5th and 14th calendar markers.
 * **Hourly Traffic Spikes:** The hourly transaction velocity follows a clear **bimodal (two-peak) distribution**. A minor peak occurs during standard morning startup hours (9:00 AM - 11:00 AM), while the absolute **primary daily peak builds heavily in the evening between 6:00 PM and 8:00 PM**, reflecting peak post-work commerce window transactions.
 
----![Dashboard Snapshot]()
+
 
 
 ## 🛠️ Tech Stack & MIS Skills Applied
 * **Tool:** Microsoft Excel (Pivot Tables, Advanced Formulas, Cross-Report Slicers, Visual Formatting).
 * **MIS Domain Skills:** Digital payment analytics, transaction success diagnostics, market share tracking, time-series fraud mapping, geo-spatial financial reporting.
+
+---![Dashboard Snapshot](https://github.com/the-sejal/PhonePe-UPI-Transactions-Analytics-Dashboard/blob/main/Phonepe%20dashboard.png)
